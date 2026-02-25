@@ -1,0 +1,8 @@
+{
+  "name": "AI Smart Interview Simulator",
+  "description": "An AI-powered interview practice application that conducts role-based mock interviews using voice interaction, emotion analysis, and real-time feedback.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
